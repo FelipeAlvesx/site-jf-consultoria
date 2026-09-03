@@ -160,7 +160,7 @@ section{padding:clamp(84px,11vw,152px) 0;position:relative}
 /* ---------- marks strip ---------- */
 .marks{border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
 .marks-grid{display:grid;grid-template-columns:repeat(4,1fr)}
-.mark{padding:34px 30px 34px 0;border-right:1px solid var(--line)}
+.mark{padding:34px 28px;text-align:center;border-right:1px solid var(--line)}
 .mark:last-child{border-right:0}
 .mark b{
   display:block;font-family:Newsreader,serif;font-weight:300;
@@ -169,8 +169,7 @@ section{padding:clamp(84px,11vw,152px) 0;position:relative}
 .mark span{display:block;margin-top:12px;font-size:13.5px;color:var(--mute);line-height:1.42}
 @media(max-width:860px){
   .marks-grid{grid-template-columns:1fr 1fr}
-  .mark{padding-right:22px}
-  .mark:nth-child(2n){border-right:0}
+    .mark:nth-child(2n){border-right:0}
   .mark:nth-child(-n+2){border-bottom:1px solid var(--line)}
 }
 
