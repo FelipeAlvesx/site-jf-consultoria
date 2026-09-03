@@ -1,0 +1,902 @@
+BRIEFING COMPLETO — SITE INSTITUCIONAL JF ASSESSORIA E CONSULTORIA PREVIDENCIÁRIA
+
+1. OBJETIVO DO PROJETO
+
+Criar um site institucional premium, profissional, humano e extremamente confiável para a JF Assessoria e Consultoria Previdenciária, uma empresa com mais de 20 anos de experiência na área previdenciária.
+
+O site não deve parecer um escritório de advocacia tradicional.
+
+A JF NÃO É UM ESCRITÓRIO DE ADVOCACIA e não deve se apresentar como tal.
+
+A empresa atua como assessoria e consultoria previdenciária, realizando investigação, análise documental, análise de CNIS, PPP, processos administrativos, cálculos, planejamento, orientação, auditoria, triagem e estruturação técnica de demandas.
+
+Quando uma demanda exige atuação judicial, a JF trabalha em conjunto com advogados e escritórios de advocacia parceiros/indicados, que realizam a atuação jurídica.
+
+O site precisa transmitir:
+
+- experiência;
+- credibilidade;
+- inteligência técnica;
+- investigação;
+- organização;
+- segurança;
+- tradição;
+- atendimento humano;
+- discrição;
+- confiança;
+- conhecimento acumulado durante mais de duas décadas.
+
+A sensação que o visitante deve ter ao entrar no site é:
+
+«"Eles realmente entendem de Previdência. Não estão apenas tentando vender uma aposentadoria."»
+
+---
+
+2. POSICIONAMENTO DA MARCA
+
+A JF deve ser posicionada como uma empresa especializada em entender o que existe por trás dos documentos previdenciários.
+
+O grande diferencial não é simplesmente protocolar benefícios.
+
+É investigar.
+
+É descobrir inconsistências.
+
+É compreender o histórico do segurado.
+
+É interpretar aquilo que o cliente não consegue interpretar.
+
+É encontrar informações que podem estar incorretas, incompletas ou não reconhecidas.
+
+É organizar tecnicamente uma demanda para que ela possa seguir o caminho adequado.
+
+Conceito central da marca:
+
+"Antes de buscar um benefício, é preciso entender a história previdenciária de quem está buscando."
+
+Outro conceito possível:
+
+"Seu direito começa pela informação correta."
+
+E um terceiro conceito que pode ser utilizado em diferentes partes do site:
+
+"Mais de 20 anos investigando histórias previdenciárias."
+
+---
+
+3. STORYTELLING DA EMPRESA
+
+A história da JF deve ser contada como uma trajetória construída através de casos reais, experiência e confiança.
+
+Não queremos uma apresentação genérica dizendo apenas:
+
+"Somos especialistas em aposentadoria."
+
+Queremos mostrar que a empresa construiu conhecimento durante mais de 20 anos acompanhando pessoas reais.
+
+A JF acompanha o segurado desde sua inscrição e organização contributiva até a concessão do benefício e, em determinadas situações, continua atuando mesmo depois do falecimento do segurado, auxiliando na habilitação de dependentes e herdeiros.
+
+Ao longo dessas duas décadas, a empresa passou por diferentes mudanças na legislação previdenciária e acompanhou a transformação do sistema.
+
+A experiência aumentou principalmente porque cada caso trouxe uma nova situação para investigar.
+
+CNIS inconsistente.
+
+PPP incorreto.
+
+Benefício indeferido.
+
+Tempo de contribuição não reconhecido.
+
+Servidor público que desconhece seu regime previdenciário.
+
+Benefício bloqueado.
+
+Pensão que precisa ser habilitada.
+
+Herdeiros que precisam receber valores deixados pelo segurado.
+
+Empresas que precisam compreender as consequências previdenciárias de determinadas situações trabalhistas.
+
+A JF aprendeu a enxergar a Previdência não como um formulário, mas como uma história.
+
+---
+
+4. UM CASO QUE REPRESENTA A NOSSA EXPERIÊNCIA
+
+Criar uma seção especial no site contando, de forma elegante e sem expor nomes ou dados pessoais, um caso emblemático da trajetória da empresa.
+
+Storytelling sugerido:
+
+"Em determinado momento de nossa trajetória, um grupo de segurados do interior da Bahia passou a ser investigado pela Previdência sob suspeita de fraude processual.
+
+A situação poderia representar a perda de benefícios e de uma renda essencial para aquelas pessoas.
+
+A JF realizou uma investigação detalhada da documentação e do histórico dos segurados.
+
+Ao reconstruir os fatos e analisar as informações disponíveis, conseguimos demonstrar que havia um equívoco na apuração previdenciária e que os segurados estavam regulares.
+
+Os benefícios foram desbloqueados e restabelecidos.
+
+Anos depois, alguns daqueles segurados faleceram.
+
+Mas a história ainda não havia terminado.
+
+Foi necessário orientar a habilitação dos herdeiros para que valores que permaneceram retidos durante o período fossem buscados pelos sucessores.
+
+Somados, os valores envolvidos nesses casos ultrapassaram R$ 1 milhão.
+
+Esse caso representa uma das coisas que mais acreditamos dentro da JF:
+
+um problema previdenciário raramente termina no primeiro documento.
+
+Às vezes, é preciso voltar anos no tempo para descobrir o que realmente aconteceu."
+
+Criar visualmente essa seção como uma espécie de "case study", com linha do tempo:
+
+INVESTIGAÇÃO → ANÁLISE → COMPROVAÇÃO → RESTABELECIMENTO → HABILITAÇÃO DOS HERDEIROS
+
+Não utilizar nomes reais, números de processos ou informações que permitam identificar os clientes.
+
+---
+
+5. HERO SECTION
+
+Criar uma Hero Section extremamente forte.
+
+Não usar textos genéricos como:
+
+"Especialistas em aposentadoria"
+
+ou
+
+"Tenha seu benefício aprovado".
+
+A JF precisa parecer muito mais sofisticada e técnica.
+
+Headline principal sugerida:
+
+Seu direito previdenciário começa muito antes do pedido.
+
+Subheadline:
+
+Há mais de 20 anos, investigamos histórias previdenciárias, identificamos inconsistências e transformamos documentos e informações em análises técnicas para orientar cada caso pelo caminho adequado.
+
+CTA principal:
+
+Quero analisar meu caso
+
+CTA secundário:
+
+Conheça a JF
+
+Alternativa de headline:
+
+20 anos olhando além do CNIS.
+
+Subheadline:
+
+Porque, na Previdência, nem tudo o que importa aparece na primeira tela do sistema.
+
+Essa segunda opção pode ser utilizada em uma versão mais sofisticada/conceitual.
+
+---
+
+6. ELEMENTO VISUAL DO HERO
+
+O Hero deve transmitir investigação e confiança.
+
+Evitar imagens clichês de:
+
+- idosos sorrindo;
+- pessoas segurando documentos;
+- mãos apertando mãos;
+- advogados de terno;
+- martelo de juiz;
+- balança da Justiça;
+- prédios de tribunais.
+
+Queremos uma estética mais sofisticada.
+
+Sugestão:
+
+Uma composição visual abstrata e elegante representando documentos, arquivos, informações e linhas de investigação.
+
+Pode utilizar:
+
+- documentos;
+- linhas de tempo;
+- arquivos digitalizados;
+- detalhes de documentos;
+- elementos de análise;
+- textura de papel;
+- elementos digitais discretos;
+- fotografia institucional do responsável, caso seja fornecida posteriormente.
+
+A estética deve remeter a:
+
+arquivo + investigação + conhecimento + precisão + tradição.
+
+---
+
+7. SEÇÃO "NÃO É APENAS UMA APOSENTADORIA"
+
+Criar uma seção explicando que o trabalho da JF vai muito além de simplesmente solicitar aposentadorias.
+
+Headline:
+
+A Previdência é uma história. Nós investigamos cada capítulo.
+
+Texto:
+
+"Um benefício pode depender de informações que foram registradas há décadas.
+
+Por isso, antes de qualquer orientação, analisamos o histórico do segurado.
+
+Investigamos vínculos, contribuições, períodos especiais, documentos, regimes previdenciários, processos administrativos e inconsistências que podem interferir no reconhecimento de um direito."
+
+Criar cards para:
+
+CNIS
+PPP
+PROCESSO ADMINISTRATIVO
+TEMPO DE CONTRIBUIÇÃO
+REGIME PRÓPRIO
+CÁLCULOS PREVIDENCIÁRIOS
+BENEFÍCIOS
+HABILITAÇÃO DE HERDEIROS
+
+---
+
+8. SERVIÇOS
+
+Criar uma área chamada:
+
+O que fazemos
+
+Análise previdenciária
+
+Investigação completa do histórico previdenciário do segurado, identificação de inconsistências e avaliação dos possíveis caminhos.
+
+Análise de CNIS
+
+Leitura detalhada do Cadastro Nacional de Informações Sociais, identificando vínculos, contribuições, períodos e possíveis inconsistências.
+
+Análise de PPP e atividade especial
+
+Avaliação da documentação relacionada a atividades especiais e dos períodos que podem influenciar a aposentadoria.
+
+Análise de processos administrativos
+
+Leitura técnica de processos e decisões administrativas, inclusive em casos de indeferimento, buscando compreender exatamente o motivo da negativa.
+
+Correção e novo requerimento
+
+Quando existem inconsistências, realizamos a análise e organização necessária para correção e reapresentação do pedido.
+
+Planejamento e tempo de contribuição
+
+Avaliação do histórico contributivo e das possibilidades previdenciárias de acordo com as regras aplicáveis.
+
+Cálculos previdenciários
+
+Elaboração de cálculos previdenciários utilizando ferramentas especializadas, incluindo o SOMPREV.
+
+Benefícios por incapacidade
+
+Análise de situações relacionadas a benefícios por incapacidade, incluindo aposentadoria por incapacidade permanente e auxílio por incapacidade temporária.
+
+Pensão por morte e habilitação de dependentes
+
+Orientação e organização documental para habilitação de dependentes e herdeiros.
+
+Acumulação de benefícios
+
+Análise de situações envolvendo recebimento simultâneo de benefícios, incluindo pensões e aposentadorias, conforme as regras aplicáveis.
+
+Servidores públicos
+
+Análise de situações envolvendo servidores municipais e estaduais, inclusive casos em que existe Regime Próprio de Previdência Social.
+
+Auditoria previdenciária
+
+Análise técnica de informações e documentos previdenciários para identificação de inconsistências e riscos.
+
+---
+
+9. EMPRESAS
+
+Criar uma seção específica para empresas.
+
+Headline:
+
+Previdência também faz parte da gestão de pessoas.
+
+Texto:
+
+"Questões trabalhistas e previdenciárias frequentemente se encontram na rotina de uma empresa.
+
+Afastamentos, benefícios, retorno ao trabalho, informações previdenciárias e conflitos entre empregado e empregador podem exigir uma análise que ultrapassa o simples preenchimento de documentos.
+
+A JF presta orientação e realiza visitas técnicas, quando necessário, junto aos setores de RH e Departamento Pessoal."
+
+Serviços para empresas:
+
+- orientação previdenciária;
+- análise de situações envolvendo afastamentos;
+- orientação ao RH e Departamento Pessoal;
+- análise documental;
+- auditoria;
+- mediação e conciliação;
+- visitas técnicas;
+- orientação em situações envolvendo empregados afastados pelo INSS;
+- análise de situações em que existe conflito entre empresa e funcionário.
+
+Importante:
+
+Não apresentar a JF como escritório trabalhista.
+
+Quando houver necessidade de atuação jurídica, deixar claro que a atuação judicial é realizada por profissionais da advocacia.
+
+---
+
+10. JF + ADVOCACIA
+
+Criar uma seção explicando de maneira transparente o modelo de trabalho.
+
+Headline:
+
+Consultoria técnica e advocacia: cada profissional no seu papel.
+
+Texto:
+
+"A JF não é um escritório de advocacia.
+
+Nossa atuação está na consultoria e assessoria previdenciária, na investigação dos fatos, análise documental, organização das informações e estruturação técnica das demandas.
+
+Quando uma situação exige atuação judicial, trabalhamos em conjunto com advogados e escritórios de advocacia parceiros ou indicados.
+
+Dessa forma, o advogado recebe uma demanda tecnicamente organizada, com as informações previdenciárias previamente analisadas, permitindo que sua atuação jurídica seja mais direcionada."
+
+Criar visual em duas colunas:
+
+JF
+Investigação + análise + organização + inteligência previdenciária
+
+ADVOCACIA
+Atuação jurídica + representação + processo judicial
+
+No centro:
+
+Uma demanda. Duas especialidades. Um objetivo: buscar o melhor caminho para o cliente.
+
+---
+
+11. "ANTES DA IA"
+
+Criar uma seção conceitual e diferenciada.
+
+Headline:
+
+Antes da inteligência artificial, já existia a inteligência previdenciária.
+
+Texto:
+
+"Muito antes de ferramentas de inteligência artificial fazerem parte da rotina profissional, já desenvolvíamos nossa própria metodologia de investigação e organização de informações.
+
+Recebíamos uma situação complexa.
+
+Investigávamos documentos.
+
+Reconstruíamos históricos.
+
+Identificávamos inconsistências.
+
+Organizávamos as informações.
+
+Estruturávamos tecnicamente a demanda.
+
+E então encaminhávamos o material ao advogado responsável pela atuação jurídica.
+
+Mais de 20 anos depois, a tecnologia mudou.
+
+Nosso compromisso com a análise continua o mesmo."
+
+Essa seção deve ter uma estética tecnológica, porém elegante, contrastando arquivos antigos digitalizados com elementos modernos.
+
+---
+
+12. NOSSO ARQUIVO
+
+Criar uma seção visualmente impactante.
+
+Headline:
+
+20 anos de histórias guardadas em nosso arquivo.
+
+Texto:
+
+"Durante décadas, documentos físicos fizeram parte da nossa rotina.
+
+Hoje, esse acervo foi digitalizado e organizado.
+
+São anos de documentação, históricos, análises e experiências preservados em estruturas digitais e armazenamento em nuvem.
+
+Mais do que um arquivo, esse acervo representa a memória profissional da JF.
+
+Cada documento representa uma história.
+
+Cada pasta representa uma pessoa.
+
+Cada processo representa uma família."
+
+Criar visual de transição:
+
+ARQUIVO FÍSICO → DIGITALIZAÇÃO → NUVEM → CONHECIMENTO
+
+---
+
+13. CREDIBILIDADE
+
+Criar uma seção:
+
+Construímos nossa reputação de uma forma diferente.
+
+Texto:
+
+"Durante mais de 20 anos, nossa principal forma de divulgação nunca foi a publicidade em massa.
+
+Foi a indicação.
+
+Um cliente indicou outro.
+
+Uma família indicou outra família.
+
+Um segurado retornou anos depois.
+
+E assim, pouco a pouco, construímos uma rede de confiança.
+
+Nossa credibilidade não nasceu de uma campanha.
+
+Nasceu de milhares de atendimentos, análises e histórias acompanhadas ao longo do tempo."
+
+Usar destaque visual:
+
+20+ anos de experiência
+
+Atendimento baseado em confiança
+
+Conhecimento acumulado caso a caso
+
+Acervo documental de décadas
+
+Não inventar número de clientes atendidos.
+
+Não inventar quantidade de processos.
+
+Não inventar taxa de sucesso.
+
+---
+
+14. ESTATÍSTICA DE ÊXITO
+
+Não colocar no site a afirmação "menos de 10% de perda" como dado oficial neste momento.
+
+Se futuramente houver levantamento documental que comprove esse número, criar uma seção específica de resultados.
+
+Por enquanto, utilizar linguagem como:
+
+"Um histórico construído sobre análise técnica e experiência prática."
+
+Não criar números fictícios.
+
+---
+
+15. PROCESSO DE ATENDIMENTO
+
+Criar uma seção visual com quatro ou cinco etapas.
+
+01 — Atendimento
+
+Entendemos a história e a necessidade do cliente.
+
+02 — Triagem documental
+
+Organizamos e analisamos os documentos disponíveis.
+
+03 — Investigação
+
+Confrontamos informações, histórico previdenciário e sistemas.
+
+04 — Análise técnica
+
+Identificamos inconsistências, possibilidades e caminhos.
+
+05 — Orientação
+
+Apresentamos ao cliente o cenário identificado e os próximos passos.
+
+Quando houver necessidade de atuação judicial:
+
+06 — Encaminhamento jurídico
+
+A demanda é direcionada aos profissionais da advocacia responsáveis pela atuação judicial.
+
+---
+
+16. CTA PRINCIPAL DO SITE
+
+Criar CTAs sem linguagem agressiva de venda.
+
+Evitar:
+
+"APOSENTE-SE AGORA!"
+
+"GANHE SEU BENEFÍCIO!"
+
+"APROVE SEU INSS!"
+
+"DESCUBRA QUANTO VOCÊ VAI RECEBER!"
+
+Preferir:
+
+Quero analisar meu caso
+
+Falar com um especialista
+
+Solicitar uma avaliação
+
+Entender minha situação previdenciária
+
+Agendar uma orientação
+
+CTA final:
+
+Sua história previdenciária merece ser analisada com atenção.
+
+Fale com a JF Assessoria e Consultoria Previdenciária.
+
+Botão:
+
+Quero conversar com a JF
+
+---
+
+17. SOBRE O RESPONSÁVEL
+
+Criar uma seção institucional para apresentar o responsável pela empresa.
+
+Não inventar nome, registro profissional, foto ou informações que não tenham sido fornecidas.
+
+Utilizar os dados disponíveis:
+
+- responsável pela empresa;
+- bacharel em Direito;
+- servidor público aposentado;
+- mais de 20 anos de experiência na área previdenciária.
+
+Texto:
+
+"À frente da JF está um profissional com formação em Direito e experiência acumulada ao longo de mais de duas décadas de atuação previdenciária.
+
+A experiência como servidor público aposentado também contribuiu para ampliar a compreensão sobre as particularidades dos regimes previdenciários e das relações entre o cidadão e a Administração Pública.
+
+Mais do que títulos, a trajetória é construída pela experiência prática adquirida em cada caso acompanhado."
+
+Se for disponibilizada posteriormente uma foto profissional, criar uma apresentação visual sofisticada e humana.
+
+---
+
+18. TOM DE VOZ
+
+O texto do site deve ser:
+
+- profissional;
+- seguro;
+- técnico;
+- humano;
+- elegante;
+- maduro;
+- confiável;
+- acessível.
+
+Não usar linguagem excessivamente jurídica.
+
+Não usar "juridiquês" desnecessário.
+
+Não parecer uma página de vendas agressiva.
+
+A JF deve transmitir a sensação de:
+
+"Nós já vimos esse problema antes."
+
+e não:
+
+"Precisamos vender uma aposentadoria para você."
+
+---
+
+19. IDENTIDADE VISUAL
+
+Criar uma identidade visual premium e sóbria.
+
+Evitar visual genérico de escritório de advocacia.
+
+Não utilizar como elemento principal:
+
+- balança da Justiça;
+- martelo;
+- colunas gregas;
+- tribunal;
+- brasão;
+- martelo de juiz;
+- imagens clichês de idosos.
+
+A estética deve misturar:
+
+tradição + tecnologia + investigação + confiança.
+
+Sugestão de paleta:
+
+- azul-marinho profundo;
+- azul petróleo;
+- branco/off-white;
+- cinza grafite;
+- detalhes em dourado discreto ou bronze.
+
+Tipografia:
+
+Usar uma fonte serifada elegante para títulos e uma sans-serif moderna para textos, criando contraste entre tradição e tecnologia.
+
+O site deve parecer uma empresa consolidada, não uma startup recém-criada.
+
+---
+
+20. EXPERIÊNCIA VISUAL
+
+Criar microinterações elegantes:
+
+- animações suaves;
+- entrada progressiva dos textos;
+- números contando de forma discreta;
+- linhas conectando etapas;
+- efeito de documentos sendo analisados;
+- transições entre passado e presente;
+- elementos de arquivo/documentação;
+- timeline dos 20 anos.
+
+Evitar excesso de animações.
+
+A experiência deve ser sofisticada e rápida.
+
+---
+
+21. ESTRUTURA DO SITE
+
+Criar a seguinte arquitetura:
+
+HOME
+
+1. Hero
+2. Manifesto / posicionamento
+3. O que fazemos
+4. Como trabalhamos
+5. Caso emblemático
+6. Previdenciário + empresas
+7. JF + advocacia
+8. 20 anos de experiência
+9. Nosso arquivo
+10. Sobre o responsável
+11. CTA
+12. Rodapé
+
+PÁGINAS SECUNDÁRIAS:
+
+/sobre
+
+/servicos
+
+/empresas
+
+/como-funciona
+
+/contato
+
+---
+
+22. RODAPÉ
+
+Incluir:
+
+JF Assessoria e Consultoria Previdenciária
+
+Consultoria e assessoria previdenciária há mais de 20 anos.
+
+Informar posteriormente:
+
+- telefone;
+- WhatsApp;
+- e-mail;
+- endereço;
+- horário de atendimento;
+- CNPJ;
+- demais informações institucionais.
+
+Não inventar nenhuma dessas informações.
+
+Também incluir uma observação clara:
+
+"A JF Assessoria e Consultoria Previdenciária não é escritório de advocacia. A atuação judicial, quando necessária, é realizada por profissionais da advocacia parceiros ou indicados."
+
+---
+
+23. SEO
+
+O site deve ser estruturado para SEO sem comprometer a qualidade da copy.
+
+Trabalhar naturalmente termos como:
+
+- assessoria previdenciária;
+- consultoria previdenciária;
+- análise previdenciária;
+- análise de CNIS;
+- aposentadoria;
+- planejamento previdenciário;
+- aposentadoria especial;
+- PPP;
+- benefício previdenciário;
+- benefício indeferido;
+- pensão por morte;
+- servidor público;
+- regime próprio de previdência;
+- revisão de benefício;
+- cálculo previdenciário;
+- habilitação de herdeiros;
+- consultoria previdenciária para empresas.
+
+Não fazer keyword stuffing.
+
+---
+
+24. RESPONSIVIDADE
+
+O site precisa ser completamente responsivo.
+
+Prioridade:
+
+1. celular;
+2. tablet;
+3. desktop.
+
+No mobile:
+
+- CTA fixo para WhatsApp/contato;
+- navegação simples;
+- textos bem dimensionados;
+- carregamento rápido;
+- cards empilhados;
+- imagens otimizadas.
+
+---
+
+25. CONVERSÃO
+
+O objetivo do site não é simplesmente informar.
+
+É fazer o visitante pensar:
+
+"Preciso que alguém analise o meu caso."
+
+Por isso, distribuir CTAs ao longo da página.
+
+Porém, nunca utilizar técnicas de venda agressivas.
+
+A conversão deve acontecer através de:
+
+autoridade → confiança → identificação → demonstração de experiência → contato.
+
+---
+
+26. FRASES DE IMPACTO PARA UTILIZAR AO LONGO DO SITE
+
+Utilizar algumas dessas frases como elementos de destaque:
+
+"Seu direito previdenciário começa muito antes do pedido."
+
+"20 anos olhando além do CNIS."
+
+"A Previdência é uma história. Nós investigamos cada capítulo."
+
+"Nem tudo o que importa aparece na primeira tela do sistema."
+
+"Antes de protocolar, é preciso entender."
+
+"Documento por documento. Período por período. História por história."
+
+"Informação correta é o primeiro passo para uma análise previdenciária segura."
+
+"Nossa experiência foi construída caso a caso."
+
+"Um problema previdenciário raramente termina no primeiro documento."
+
+"20 anos transformando documentos em informação."
+
+"Consultoria técnica para demandas que exigem mais do que um protocolo."
+
+---
+
+27. O QUE NÃO FAZER
+
+NÃO criar aparência de escritório de advocacia.
+
+NÃO afirmar que a JF é advogada.
+
+NÃO prometer concessão de benefício.
+
+NÃO prometer aposentadoria.
+
+NÃO garantir resultados.
+
+NÃO utilizar frases como "aposentadoria garantida".
+
+NÃO inventar estatísticas.
+
+NÃO inventar quantidade de clientes.
+
+NÃO inventar valores recuperados além do caso informado.
+
+NÃO inventar depoimentos.
+
+NÃO inventar nomes de clientes.
+
+NÃO inventar certificações.
+
+NÃO inventar registros profissionais.
+
+NÃO utilizar informações pessoais que não foram fornecidas.
+
+NÃO transformar o site em uma landing page agressiva.
+
+NÃO utilizar excesso de imagens clichês de idosos ou tribunais.
+
+NÃO confundir consultoria previdenciária com atuação jurídica.
+
+---
+
+28. RESULTADO ESPERADO
+
+Quero que o resultado final pareça uma empresa que existe há mais de 20 anos e possui um conhecimento que não pode ser construído da noite para o dia.
+
+O visitante deve perceber que:
+
+A JF não começou ontem.
+
+A JF não depende de publicidade para existir.
+
+A JF construiu sua reputação através de indicação.
+
+A JF já lidou com situações previdenciárias extremamente complexas.
+
+A JF possui um acervo histórico de mais de duas décadas.
+
+A JF sabe investigar documentos.
+
+A JF sabe interpretar processos.
+
+A JF sabe encontrar inconsistências.
+
+A JF sabe estruturar tecnicamente uma demanda.
+
+E, principalmente:
+
+quando o caso é complexo, experiência faz diferença.
+
+O site deve contar essa história visualmente.
+
+Não quero apenas um site institucional.
+
+Quero que o site seja uma experiência de confiança, onde a própria estrutura da página conte a trajetória de 20 anos da JF.
+
+A pessoa deve entrar procurando "aposentadoria" e sair pensando:
+
+"Eu preciso que a JF olhe o meu caso."
