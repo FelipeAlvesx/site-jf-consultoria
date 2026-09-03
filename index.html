@@ -273,7 +273,7 @@ section{padding:clamp(84px,11vw,152px) 0;position:relative}
 /* ---------- responsavel ---------- */
 .resp{display:grid;grid-template-columns:.85fr 1.15fr;gap:clamp(34px,5vw,74px);align-items:center}
 .resp-photo{
-  position:relative;aspect-ratio:4/5;border:1px solid var(--line);border-radius:var(--r);
+  position:relative;aspect-ratio:576/578;max-width:576px;margin-inline:auto;width:100%;border:1px solid var(--line);border-radius:var(--r);
   background:
     linear-gradient(170deg,rgba(38,35,32,.85),rgba(10,10,11,.96)),
     repeating-linear-gradient(45deg,rgba(244,242,237,.02) 0 2px,transparent 2px 9px);
@@ -769,8 +769,7 @@ html.js-motion .m-prog{
     <div class="wrap">
       <div class="resp">
         <div class="resp-photo" data-reveal>
-          <!-- Ao ter a foto, troque o <em> abaixo por: <img src="assets/responsavel.jpg" alt="Responsável pela JF"> -->
-          <em>Espaço reservado para a fotografia institucional do responsável.</em>
+          <img src="assets/responsavel.jpg" alt="Profissionais da JF analisando documentos em uma reunião" width="576" height="578" loading="lazy" decoding="async">
         </div>
         <div>
           <p class="eyebrow" data-reveal>Sobre o responsável</p>
